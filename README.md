@@ -12,8 +12,7 @@
 
 - 点击 [Use this template](https://github.com/P3TERX/Actions-OpenWrt/generate) 按钮来创建新的存储库。
 - 产生 `.config` 文件使用 [Lean's OpenWrt](https://github.com/coolsnowwolf/lede) 源代码. ( 您可以通过工作流文件中的环境变量进行更改. )
-- 4/5000
-推入 `.config` 文件添加到GitHub存储库中，构建会自动开始。进度可以在``操作''页面上查看。
+- 推入 `.config` 文件添加到GitHub存储库中，构建会自动开始。进度可以在``操作''页面上查看。
 - 当构建完成后，单击在操作页面的右上角的'Artifacts`按钮下载二进制文件。
 
 ## 致谢
