@@ -16,8 +16,9 @@
 - 当构建完成后，单击在操作页面的右上角的'Artifacts`按钮下载二进制文件。
 
 ##使用方法
-如果原来已经刷过openwrt系统，可将openwrt-*.img上传到tmp,然后使用命令： dd if=/tmp/openwrt-*.img of=/dev/sda写入。此命令将会清除原盘所有数据和分区，请注意备份。
-默认WEB：192.168.1.1 用户名：root 密码：password
+
+- 如果原来已经刷过openwrt系统，可将openwrt-*.img上传到tmp,然后使用命令： dd if=/tmp/openwrt-*.img of=/dev/sda写入。此命令将会清除原盘所有数 - 据和分区，请注意备份。
+- 默认WEB：192.168.1.1 用户名：root 密码：password
 
 ## 致谢
 
